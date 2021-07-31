@@ -1,8 +1,8 @@
 ## Hi 👋 I´m Roger 😎
 
 
-- 🔭 I’m currently working on YNB Agency
-- 🌱 I’m currently learning Typescript
+- 🔭 I’m currently working on **YNB Agency**
+- 🌱 I’m currently learning **Typescript**
 
  <div>
   <a href="https://github.com/RMERCADOR98">
