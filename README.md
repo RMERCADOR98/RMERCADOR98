@@ -14,7 +14,7 @@
   <img align="center" alt="Roger-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Roger-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Roger-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="right" alt="Roger-GIF" height="150" width="150" src="https://media2.giphy.com/media/8u3a2ccSkMYJbx3qLy/giphy.gif?cid=790b761193a4bd26c8e28c6300e91836534dfc33bd0da5c6&rid=giphy.gif&ct=g">
+  <img align="right" alt="Roger-GIF" height="130" width="130" src="https://media2.giphy.com/media/8u3a2ccSkMYJbx3qLy/giphy.gif?cid=790b761193a4bd26c8e28c6300e91836534dfc33bd0da5c6&rid=giphy.gif&ct=g">
   
 </div>
   
