@@ -1,7 +1,7 @@
 ## Hi 👋 I´m Roger 😎
 
 
-- 🔭 I’m currently working on **YNB Agency**
+- 🔭 I’m currently working at **Spotside**
 
  <div>
   <a href="https://github.com/RMERCADOR98">
